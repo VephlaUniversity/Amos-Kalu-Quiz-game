@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+   
+  }
+  
+  .container {
+    text-align: center;
+    margin-top: 100px;
+    background-color: rgb(238, 231, 231);
+     width: 500px;
+    height: 300px; 
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 3rem;
+    outline: 1px solid rgba(245, 245, 245, 0.884);
+    
+
+  }
+  h1{
+    color: #4CAF50;
+  }
+  
+  input[type="number"] {
+    width: 200px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: .4rem;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
